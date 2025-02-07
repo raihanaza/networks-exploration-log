@@ -1,1 +1,3 @@
-# networks-exploration-log
+# Network Exploration Log
+
+Author: Raihana Zahra
