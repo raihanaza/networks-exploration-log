@@ -19,6 +19,21 @@ As I venture into uncharted territory, I need take note of my surroundings. This
 
 Perfect! Now let me review the routing table to see where I can get to from here.
 
-![Image of routine table](images/lmu_routingtable.png)
+![Image of Routing Table](images/lmu_routingtable.png)
 
 Wow...I sure am lucky to be an explorer. There is so much to this world to see. However, it's getting late. I have a whole day ahead of me tomorrow with full energy, so I suppose I can wait. 
+
+### 8 Feb 2025
+What a beautiful day to set sail and venture yonder. With the ship secured, I shall scan the surrounding perimeter to seek other vessels. Fortunately, some are friendly and others... are okay. 
+
+![Image of ARP Scan](images/lmu_arp.png)
+
+I am curious as to whether any of these ships would answer me call, I sent forth me trusty parrot, Squawkzilla, for contact. One was friendly enough to answer back.
+
+![Image of Ping Host](images/lmu_pinghost.png)
+
+Arghh matey! If Squakzilla was able to contact vessel 10.27.214.201, there is a chance I may find a route to get me to them!
+
+![Image of Traceroute Host](images/lmu_traceroutehost.png)
+
+Darn. Seems like the route is too foggy, I cannot make clear of anything. The seas are treacherous, but I will not be deterred!
