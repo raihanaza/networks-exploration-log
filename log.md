@@ -126,6 +126,26 @@ _**DNS**_
 ![Image of Peets Ping DNS](images/peets_pingdns.png)
 ![Image of Peets Traceroute DNS](images/peets_traceroutedns.png)
 
+Hmmm. I can trace all the routes for each of these places, which are the same. It all starts at 10.128.128.128. Let me now try to contact LMU and snake.io to see if there is a common denominator with this area. 
 
+_**LMU**_
+
+![Image of Peets Ping LMU](images/peets_pinglmu.png)
+![Image of Peets Traceroute LMU](images/peets_traceroutelmu.png)
+![Image of Peets Nmap LMU](images/peets_nmaplmu.png)
+
+_**Snake.io**_
+
+![Image of Peets Ping Snake](images/peets_pingsnake.png)
+![Image of Peets Traceroute Snake](images/peets_traceroutesnake.png)
+![Image of Peets Nmap Snake](images/peets_nmapsnake.png)
+
+Ayeee! There is so much to see that I can even successfully ping and traceroute both of my sites! Tracerouting to both LMU and snake.io has its first stops at 47.176.203.133, 172.102.112.233, and 47.177.155.164 -- what a popular visit. And both have open Ports 80/tcp and 433/tcp, just like at LMU Harbor! Interesting. I shall try to dig for particular coordinates, maybe that will show me something. 
+
+_**LMU**_
+![Image of Peets dig LMU](images/peets_diglmu.png)
+
+_**Snake.io**_
+![Image of Peets dig Snake](images/peets_digsnake.png)
 
 
