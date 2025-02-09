@@ -35,7 +35,7 @@ Arghh matey! If Squakzilla was able to contact vessel 10.27.214.201, there is a 
 
 ![Image of LMU Traceroute Host](images/lmu_traceroutehost.png)
 
-Darn. Seems like the route is too foggy, I cannot make clear of anything. The seas are treacherous, but I will not be deterred! I shall try again with the router and DNS instead.
+Darn. Seems like the route is too foggy, I cannot make clear of anything. The seas are treacherous, but I will not be deterred! I shall try again to ping and traceroute with the router and DNS instead.
 
 _**Router**_
 
