@@ -59,4 +59,26 @@ _**Snake.io**_
 ![Image of LMU Ping Snake](images/lmu_pingsnake.png)
 ![Image of LMU Traceroute Snake](images/lmu_traceroutesnake.png)
 
+With the waters unclear and the foggy air, I shall use my ancient tool -- my enchanted spyglass called the dig. Perhaps it will reveal the true coordinates of these lands!
 
+_**LMU**_
+
+![Image of LMU dig LMU](images/lmu_diglmu.png)
+
+_**Snake.io**_
+
+![Image of LMU dig Snake](images/lmu_digsnake.png)
+
+Aha! The charts reveal that LMU hides behind many veils: 52.37.49.200, 54.189.142.187, 54.186.242.189, 50.112.186.15, and more! The fortress may have many gates, but at last, I know where they stand. Though they keep their walls high, knowledge be power! The snake as well, it lurks across 104.26.8.186, 172.67.75.234, and 104.26.9.186. This will be an interesting adventure. 
+
+Let me see where the ports open at both of these sites. I may be able to find civilization after doing so.
+
+_**LMU**_
+
+![Image of LMU nmap LMU open ports](images/lmu_nmaplmu.png)
+
+_**Snake.io**_
+
+![Image of LMU nmap Snake open ports](images/lmu_nmapsnake.png)
+
+Hmmm. I notice that both sites go through Port 80/tcp and 443/tcp with LMU having 994 filtered tcp ports and Snake.io having 988 filtered tcp ports. 
