@@ -109,6 +109,23 @@ Blimey! Everything is different! This must mean I am at a different place in the
 ![Image of Peets Routing Table](images/peets_routingtable.png)
 ![Image of Peets ARP](images/peets_arp.png)
 
+To make contact, I sent forth Squawkzilla once again. I shall repeat the process of contacting, tracing the route, and mapping to the hosts.
+
+_**Host**_
+
+![Image of Peets Ping Host](images/peets_pinghost.png)
+![Image of Peets Traceroute Host](images/peets_traceroutehost.png)
+
+_**Router**_
+
+![Image of Peets Ping Router](images/peets_pingrouter.png)
+![Image of Peets Traceroute Router](images/peets_tracerouterouter.png)
+
+_**DNS**_
+
+![Image of Peets Ping DNS](images/peets_pingdns.png)
+![Image of Peets Traceroute DNS](images/peets_traceroutedns.png)
+
 
 
 
