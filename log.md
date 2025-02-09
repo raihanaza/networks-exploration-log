@@ -1,4 +1,4 @@
-# Navigating the Internet Seas 🗺️
+![image](https://github.com/user-attachments/assets/9b5cbe90-ba05-4107-9b60-86a8560bc33f)# Navigating the Internet Seas 🗺️
 ## Morgan's Log 📜
 
 ### 7 Feb 2025
@@ -96,5 +96,19 @@ _**Snake.io**_
 Ahoy! These hidden pathways show me the routes I must take, with some ports standing open for travel, while others remain closed or concealed. The Internet seas be vast, but I be learning its secrets one route at a time! I shall continue on my way. Now onto the Peets network to sip on my favorite coffee beans and perhaps the Concourse to maybe have a good nights sleep. Onwards...
 
 ### 10 Feb 2025
+
+Its been a steady 2 days on the ship to from LMU harbors to now Peet's coffee. This public dock is just teeming with signal clashes, unknown vessels, and unpredictable tides. Now to do it all again... 
+
+- IP Address: 192.168.5.54
+- Subnet Mask: 255.255.254.0
+- Router: 192.168.4.1 
+- Domain Name Servers: 192.168.4.1
+
+Blimey! Everything is different! This must mean I am at a different place in the Internet. Let me observe the routing table like last time and figure out other vessels around me.
+
+![Image of Peets Routing Table](images/peets_routingtable.png)
+![Image of Peets ARP](images/peets_arp.png)
+
+
 
 
