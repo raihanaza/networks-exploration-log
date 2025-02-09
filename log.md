@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b5cbe90-ba05-4107-9b60-86a8560bc33f)# Navigating the Internet Seas 🗺️
+# Navigating the Internet Seas 🗺️
 ## Morgan's Log 📜
 
 ### 7 Feb 2025
