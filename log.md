@@ -93,5 +93,8 @@ _**Snake.io**_
 
 ![Image of LMU nmap stop Snake](images/lmu_nmapsnakestop.png)
 
-Ahoy! These hidden pathways show me the routes I must take, with some ports standing open for travel, while others remain closed or concealed. The Internet seas be vast, but I be learning its secrets one route at a time!
+Ahoy! These hidden pathways show me the routes I must take, with some ports standing open for travel, while others remain closed or concealed. The Internet seas be vast, but I be learning its secrets one route at a time! I shall continue on my way. Now onto the Peets network to sip on my favorite coffee beans and perhaps the Concourse to maybe have a good nights sleep. Onwards...
+
+### 10 Feb 2025
+
 
