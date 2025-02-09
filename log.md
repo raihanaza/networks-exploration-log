@@ -150,4 +150,18 @@ _**Snake.io**_
 
 ![Image of Peets dig Snake](images/peets_digsnake.png)
 
+Goodness me! LMU has so many gates once again including 54.190.108.222, 54.189.251.234, 35.166.103.152, 54.187.60.41, and more! My trusty snake.io is small but mighty with only 3! Just 172.67.75.234, 104.26.9.186, and 104.26.8.186. Excellent. Now to just examine the intermediate stops between right now and these destinations...
 
+_**LMU**_
+
+![Image of Peets Nmap LMU Stop](images/peets_nmaplmustops.png)
+
+_**Snake.io**_
+
+![Image of Peets Nmap Snake Stop](images/peets_nmapsnakestops.png)
+
+Alas, it was too good to be true. Perhaps I cannot seek these hidden pathways but there is always another network to discover! While Peets is hiding me from my favorite sites to see, I shall not give up hope just yet! Onward to the private network now...the Concourse. 
+
+### 15 Feb 2025
+
+Oh mightey. What a long trip that was. 
