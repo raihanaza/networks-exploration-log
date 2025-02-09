@@ -82,3 +82,16 @@ _**Snake.io**_
 ![Image of LMU nmap Snake open ports](images/lmu_nmapsnake.png)
 
 Hmmm. I notice that both sites go through Port 80/tcp and 443/tcp with LMU having 994 filtered tcp ports and Snake.io having 988 filtered tcp ports. 
+
+With me maps in hand, I realize that the journey to these distant lands is not so straightforward. There be intermediary stops along the way, stepping stones guiding me toward me destination. I shall uncover what ports may be open on these stops! This will lead me to where to go next in my voyage...
+
+_**LMU**_
+
+![Image of LMU nmap stop LMU](images/lmu_nmaplmustops.png)
+
+_**Snake.io**_
+
+![Image of LMU nmap stop Snake](images/lmu_nmapsnakestop.png)
+
+Ahoy! These hidden pathways show me the routes I must take, with some ports standing open for travel, while others remain closed or concealed. The Internet seas be vast, but I be learning its secrets one route at a time!
+
