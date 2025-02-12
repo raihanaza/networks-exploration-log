@@ -178,3 +178,23 @@ Ah, just as I expected. Everything is different! We are very much at a different
 
 ![Image of Concourse ARP Scan](images/concourse_arp.png)
 
+Ah, perhaps I spy one possible vessel friend. Onward, Squakzilla! 
+
+![Image of Concourse Ping Host](images/concourse_pinghost.png)
+
+Nonsense. They did not respond back. Must they be too far or perhaps the pirates there are asleep? Maybe I shall try to navigate to them nontheless. 
+
+![Image of Concourse Traceroute Host](images/concourse_traceroutehost.png)
+
+Hmmmm. An interesting route. Seems that there's some sort of obstacle in the way, such as a firewall, that prevents me from a quick and direct route but I am still able to reach them. I'll try to do the same with the router and DNS instead... hopefully I can get better results then. I want to know more about what is around me vessel. 
+
+ _**Router**_
+
+![Image of Concourse Ping Router](images/concourse_pingrouter.png)
+![Image of Concourse Traceroute Router](images/concourse_tracerouterouter.png)
+
+_**Domain Name Servers (DNS)**_
+
+![Image of Concourse Ping DNS](images/concourse_pingdns.png)
+![Image of Concourse Traceroute DNS](images/concourse_traceroutedns.png)
+
