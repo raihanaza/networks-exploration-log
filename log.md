@@ -220,4 +220,12 @@ _**Snake.io**_
 
 ![Image of Concourse dig Snake](images/concourse_digsnake.png)
 
-Ah. At least I can sense them from here somehow. 
+Ah. At least I can sense them from here somehow. Let me see what ports are open that I can perhaps stop at.
+
+_**LMU**_
+
+![Image of Concourse nmap LMU open ports](images/concourse_nmaplmu.png)
+
+_**Snake.io**_
+
+![Image of Concourse nmap Snake open ports](images/concourse_nmapsnake.png)
