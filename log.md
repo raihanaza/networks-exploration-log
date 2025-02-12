@@ -198,3 +198,26 @@ _**Domain Name Servers (DNS)**_
 ![Image of Concourse Ping DNS](images/concourse_pingdns.png)
 ![Image of Concourse Traceroute DNS](images/concourse_traceroutedns.png)
 
+Goodness me! What an interesting response. Alas, seems that I can successfully and quickly communicate with the router but I cannot find a route to them. At least they're somewhat reachable if I am ever in danger, just seems that they are in a bad area that I cannot go to them myself. Yet, I can both reach and find a route for the DNS! Well, at least parts of the route to DNS... I suppose they do not want to be found either. But, better than nothing! Now again to contact LMU and snake.io. 
+
+_**LMU**_
+
+![Image of Concourse Ping LMU](images/concourse_pinglmu.png)
+![Image of Concourse Traceroute LMU](images/concourse_traceroutelmu.png)
+
+_**Snake.io**_
+
+![Image of Concourse Ping Snake](images/concourse_pingsnake.png)
+![Image of Concourse Traceroute Snake](images/concourse_traceroutesnake.png)
+
+My snakes have done it again! Of course they will let me reach them, nothing can stop me from getting to my snakes. Both at a quick and efficient speed with success. No hard feelings towards LMU home base but... I cannot ping nor find a complete route to them! I reckon this area may be unsafe for my own home base to not respond. Maybe I shall try to find their true coordinates with my tools since I cannot seem to get any responses otherwise. 
+
+_**LMU**_
+
+![Image of Concourse dig LMU](images/concourse_diglmu.png)
+
+_**Snake.io**_
+
+![Image of Concourse dig Snake](images/concourse_digsnake.png)
+
+Ah. At least I can sense them from here somehow. 
