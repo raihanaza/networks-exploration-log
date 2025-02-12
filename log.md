@@ -164,4 +164,17 @@ Alas, it was too good to be true. Perhaps I cannot seek these hidden pathways bu
 
 ### 15 Feb 2025
 
-Oh mightey. What a long trip that was. 
+Oh mightey. What a long trip that was. Almost missed my next destination because of how private it is compared to the public network! Fun fact, the Concourse is supposedly Squakzilla's birthplace, so she's happy to be back home. Alrighty now, time to repeat the process.
+
+- IP address: 192.168.245.102
+- Subnet mask: 255.255.255.192
+- Router: 192.168.245.65
+- Domain Name Servers (DNS): 68.170.70.150, 98.159.94.150
+
+![Image of Concourse IP, SM, router](images/concourse_TCPIP.png)
+![Image of Concourse Routing Table](images/concourse_routingtable.png)
+
+Ah, just as I expected. Everything is different! We are very much at a different part of the internet world right now, and this routing table is a lot larger than the other two areas. Let's see who's around... maybe Squakzilla might have a nearby friend around here. 
+
+![Image of Concourse ARP Scan](images/concourse_arp.png)
+
