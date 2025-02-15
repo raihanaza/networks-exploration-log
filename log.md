@@ -229,3 +229,13 @@ _**LMU**_
 _**Snake.io**_
 
 ![Image of Concourse nmap Snake open ports](images/concourse_nmapsnake.png)
+
+Interesting! Both have open ports at PORT 80/tcp and 443/tcp but Snake.io also has open ports at PORT 8080/tcp and 8443/tcp. Let me see what the intermediary stops are in between each if there are any obstacles. 
+
+_**LMU**_
+
+![Image of Concourse nmap stop LMU](images/concourse_nmaplmustops.png)
+
+_**Snake.io**_
+
+![Image of Concourse nmap stop Snake](images/concourse_nmapsnakestops.png)
