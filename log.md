@@ -238,4 +238,6 @@ _**LMU**_
 
 _**Snake.io**_
 
-![Image of Concourse nmap stop Snake](images/concourse_nmapsnakestops.png)
+![Image of Concourse nmap stop Snake](images/concourse_nmapsnakestop.png)
+
+Arghhh, matey!! I still cannot seek these hidden pathways but that is okay. I've done a lot of travelling these past days and its time for me to rest. I may as well take a rest here and continue my travels again the next day. So until next time, signing off ~ Captain Morgan & Squawkzilla.  
